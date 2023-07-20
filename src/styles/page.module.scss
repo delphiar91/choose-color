@@ -1,0 +1,8 @@
+.main {
+  display: flex;
+  background: linear-gradient(to right, #e1e0ff, #d7fadd);
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  transition: all 0.5s ease-in-out;
+}
